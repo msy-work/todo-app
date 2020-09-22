@@ -1,8 +1,0 @@
-D:\Practice\todo-app\backend\Data\bin\Debug\netcoreapp3.1\Todo.Data.deps.json
-D:\Practice\todo-app\backend\Data\bin\Debug\netcoreapp3.1\Todo.Data.dll
-D:\Practice\todo-app\backend\Data\obj\Debug\netcoreapp3.1\Todo.Data.csprojAssemblyReference.cache
-D:\Practice\todo-app\backend\Data\obj\Debug\netcoreapp3.1\Todo.Data.AssemblyInfoInputs.cache
-D:\Practice\todo-app\backend\Data\obj\Debug\netcoreapp3.1\Todo.Data.AssemblyInfo.cs
-D:\Practice\todo-app\backend\Data\bin\Debug\netcoreapp3.1\Todo.Data.runtimeconfig.json
-D:\Practice\todo-app\backend\Data\bin\Debug\netcoreapp3.1\Todo.Data.runtimeconfig.dev.json
-D:\Practice\todo-app\backend\Data\obj\Debug\netcoreapp3.1\Todo.Data.genruntimeconfig.cache
